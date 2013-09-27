@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>org.mmx.codekata</groupId>
-	<artifactId>100floors</artifactId>
+	<artifactId>100doors</artifactId>
 	<version>0.0.1</version>
 
-	<name>100floors</name>
+	<name>100doors</name>
 	<url>http://maven.apache.org</url>
 	
 	
